@@ -1,16 +1,8 @@
 # counter
 
-A new Flutter project.
 
-## Getting Started
+## Just Getting Started
 
-This project is a starting point for a Flutter application.
+A simple counter app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-07-23-11-28-43-07](https://user-images.githubusercontent.com/65070442/126743182-55660435-1123-4274-89a1-ac17c0c0ff4c.jpg)
